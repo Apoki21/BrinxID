@@ -1,5 +1,6 @@
 # brinx.id
-
+-Backend(api, DB, admin Dashboard) On Progress
+-Failure Dokterfile(wrong config)
 ## Project setup
 ```
 npm install
